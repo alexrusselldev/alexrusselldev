@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Alex Russell, I'm a self taught web developer from England.
 <!--
 **alexrusselldev/alexrusselldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
